@@ -1,0 +1,29 @@
+/* ===== Thème « Maison Kenté » — charte d'origine =====
+   Prune profond, magenta, rose pâle, orange brûlé, ivoire. */
+
+[data-theme="maison-kente"] {
+  /* Palette de marque */
+  --theme-prune: #480039;
+  --theme-magenta: #c0005a;
+  --theme-rose: #f5b6d2;
+  --theme-orange: #e85d04;
+  --theme-ivoire: #fff4e6;
+
+  /* Rôles sémantiques */
+  --theme-ink: #480039;
+  --theme-ink-soft: #6d3a5f;
+  --theme-paper: #fff4e6;
+  --theme-paper-dark: #f8e7d6;
+  --theme-line: #e8d3c6;
+  --theme-stone: #9b7a8c;
+  --theme-clay: #c0005a;
+
+  /* Dégradés du monogramme */
+  --theme-logo-1: #480039;
+  --theme-logo-2: #8d0049;
+  --theme-logo-3: #c0005a;
+  --theme-logo-4: #e85d04;
+  --theme-logo-paper-1: #a10a52;
+  --theme-logo-paper-2: #c0005a;
+  --theme-logo-paper-3: #e85d04;
+}

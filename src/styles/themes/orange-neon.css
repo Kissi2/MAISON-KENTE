@@ -1,0 +1,30 @@
+/* ===== Thème « Orange & Neon » =====
+   Pantone Orange #F57E1E + Pantone Neon Pink #F52380,
+   posés sur une base pêche claire et une encre framboise profonde. */
+
+[data-theme="orange-neon"] {
+  /* Palette de marque */
+  --theme-prune: #3d0a24;   /* framboise profonde (fonds sombres) */
+  --theme-magenta: #f52380; /* Pantone Neon Pink */
+  --theme-rose: #ffb8d2;    /* rose néon adouci */
+  --theme-orange: #f57e1e;  /* Pantone Orange */
+  --theme-ivoire: #fff5ec;  /* chair d'abricot très claire */
+
+  /* Rôles sémantiques */
+  --theme-ink: #3d0a24;
+  --theme-ink-soft: #6e2a47;
+  --theme-paper: #fff5ec;
+  --theme-paper-dark: #ffe6d3;
+  --theme-line: #f6cfb8;
+  --theme-stone: #a06a7c;
+  --theme-clay: #f52380;
+
+  /* Dégradés du monogramme : framboise → rose néon → orange */
+  --theme-logo-1: #3d0a24;
+  --theme-logo-2: #a3124f;
+  --theme-logo-3: #f52380;
+  --theme-logo-4: #f57e1e;
+  --theme-logo-paper-1: #f52380;
+  --theme-logo-paper-2: #f8506a;
+  --theme-logo-paper-3: #f57e1e;
+}
